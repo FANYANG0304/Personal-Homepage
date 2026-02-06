@@ -1,10 +1,24 @@
 type = "card"
-title = "Teaching"
-description = "Courses I have taught or assisted with."
+title = "Internship"
+description = "My internship experience."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
+title = "Data Analyst Intern"
+subtitle = "Kuaishou"
+date = "2025"
+content = "Built a proxy metric system for streamer performance evaluation using session-level attribution data, replacing revenue-based metrics to better capture streamers' organic growth ability. Assessed the real value of sharing behavior on user retention through counterfactual modeling with logistic regression across user segments. Validated the rationality of attribution time-window thresholds using fixed-effects panel models, providing evidence-based input for cross-team policy decisions."
+tags = ["Causal Inference", "A/B Testing", "User Segmentation"]
+
+[[items]]
+title = "Data Analyst Intern"
+subtitle = "Capgemini"
 date = "2024"
-content = "Description of the course and responsibilities."
-tags = ["Undergraduate", "CS"]
+content = "Built an automated social media sentiment monitoring and early-warning system for a new energy vehicle client. Developed a Word2Vec-based sentiment analysis pipeline and a Random Forest classifier to distinguish astroturf campaigns from genuine user feedback. Designed a multi-tier alerting framework combining volume anomaly detection (historical baseline + 3σ), negative sentiment spikes, cross-platform spread signals, and bot probability scoring to enable real-time risk classification and response routing."
+tags = ["Web Scraping", "Sentiment Analysis", "Random Forest"]
+
+[[items]]
+title = "Data Analyst Intern"
+subtitle = "Uber"
+date = "2023"
+content = "Designed a differentiated dynamic pricing strategy by applying DBSCAN clustering to segment riders based on price sensitivity, trip frequency, and spatiotemporal context, enabling targeted surge pricing to balance supply-demand while minimizing demand loss. Developed a hotspot-aware route planning module using Ripley's K function with edge correction on POI data, improving destination matching accuracy for natural language navigation inputs."
+tags = ["Clustering", "Spatial Analysis", "Pricing Strategy"]

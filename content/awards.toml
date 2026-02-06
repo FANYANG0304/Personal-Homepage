@@ -3,25 +3,25 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Graduate Scholarship"
+subtitle = "University of Pennsylvania"
+date = "2025 – 2026"
+content = "Awarded for academic excellence in the Master's program at the Weitzman School of Design."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "First-Class Scholarship"
+subtitle = "Nanjing Normal University"
+date = "2021 – 2025"
+content = "Awarded multiple times for outstanding academic performance."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National First Prize, Esri Developer Competition"
+subtitle = "Esri"
 date = "2023"
-content = "Description of the award."
+content = "Top 3% among all participating teams nationwide."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "National Third Prize, Chinese Mathematics Competition (CMC)"
+subtitle = "Chinese Mathematical Society"
+date = "2023"
+content = "National undergraduate mathematics competition."

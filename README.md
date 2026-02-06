@@ -12,7 +12,7 @@ Built with [PRISM](https://github.com/xyjoey/PRISM) — a modern personal websit
 
 ## Contact
 
-- Email: yangfann@upenn.edu
+- yangfann@upenn.edu
 - [Google Scholar](https://scholar.google.com/citations?user=9h2TLdEAAAAJ&hl=en)
 - [GitHub](https://github.com/FANYANG0304)
 - [LinkedIn](https://www.linkedin.com/in/fan-yang-b4b998383/)

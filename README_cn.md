@@ -12,7 +12,7 @@
 
 ## 联系方式
 
-- 邮箱：yangfann@upenn.edu
+- yangfann@upenn.edu
 - [Google Scholar](https://scholar.google.com/citations?user=9h2TLdEAAAAJ&hl=en)
 - [GitHub](https://github.com/FANYANG0304)
 - [LinkedIn](https://www.linkedin.com/in/fan-yang-b4b998383/)
